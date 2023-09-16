@@ -2,3 +2,5 @@
 docs/*_files/
 docs/*.html
 ignored_files/
+project_*/docs/*_files/
+project_*/docs/*.html
